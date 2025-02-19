@@ -54,7 +54,7 @@ To set up the XAUUSD Profit Calculator, follow these steps:
     apt install python3
     ```
 
-4. Start the tool:
+4. Run the tool Termux/Linux:
     ```bash
     python3 xauusd_calculator.py
     ```
