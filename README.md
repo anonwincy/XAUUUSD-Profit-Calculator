@@ -7,7 +7,6 @@ Welcome to the XAUUSD Profit Calculator repository! This project provides a resp
 ## Web Page Forex and Crypto Calculator
 
 
-
 - **Web**: [CLICK ME](https://wincycalculator.netlify.app/)
 
 
