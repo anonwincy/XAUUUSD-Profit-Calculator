@@ -11,7 +11,7 @@ Welcome to the XAUUSD Profit Calculator repository! This project provides a resp
 
   ![Web Calculator Screenshot](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/480675867_122096633486781648_5328355826486504107_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=D6nE0CAm51gQ7kNvgFzsf9_&_nc_zt=23&_nc_ht=scontent.fdac19-1.fna&_nc_gid=A2R4sGDDHNIB_eetgcmzbto&oh=00_AYBxOeaWmG0EkXtW-zTCTiAxkaJsK1zCCKRGMROigSgt0Q&oe=67BBBAB5)
 
-  - **Result**: [Web Calculator Result](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/481205975_122096637656781648_5673711963412703608_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PYX1y36W3gAQ7kNvgFjgr1a&_nc_zt=23&_nc_ht=scontent.fdac19-1.fna&_nc_gid=AvC7Onc3NBEXACDqKl8u_DH&oh=00_AYD-Eb4YPoq-b7yef4ULWOPxRFMoE0wX5TQbCP1JeWxCDQ&oe=67BBA6B4)
+  - **Result**: ![Calculator Screenshot](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/480640846_122096625536781648_6446957248308179528_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3AvcFgPQMFoQ7kNvgGEaY3c&_nc_zt=23&_nc_ht=scontent.fdac19-1.fna&_nc_gid=AF2LfD7-eWNcM6kIm9BaQQS&oh=00_AYAwFVkgZYrwCv8FA6R-Ca35fDv_FJE_9DgIHDJPtaF5JA&oe=67BBBFE4)
 
 
 ## Features
