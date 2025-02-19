@@ -1,8 +1,15 @@
-# XAUUSD Profit Calculator Web Page
-
-Welcome to the XAUUSD Profit Calculator Web Page repository! This project provides a responsive web interface for calculating profits and losses for XAUUSD (Gold vs US Dollar) trades. It is designed to be user-friendly, efficient, and adaptable to any device, making it an essential tool for traders of all levels.
+# XAUUSD Profit Calculator
+Welcome to the XAUUSD Profit Calculator repository! This project provides a responsive web interface for calculating profits and losses for XAUUSD (Gold vs US Dollar) trades. It is designed to be user-friendly, efficient, and adaptable to any device, making it an essential tool for traders of all levels.
 
 ![Calculator Screenshot](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/480640846_122096625536781648_6446957248308179528_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3AvcFgPQMFoQ7kNvgGEaY3c&_nc_zt=23&_nc_ht=scontent.fdac19-1.fna&_nc_gid=AF2LfD7-eWNcM6kIm9BaQQS&oh=00_AYAwFVkgZYrwCv8FA6R-Ca35fDv_FJE_9DgIHDJPtaF5JA&oe=67BBBFE4)
+
+
+## Web Page Forex and Crypto Calculator
+
+
+
+- **Web**: [CLICK ME](https://wincycalculator.netlify.app/)
+
 
 ## Features
 
@@ -15,6 +22,7 @@ Welcome to the XAUUSD Profit Calculator Web Page repository! This project provid
 
 ## Table of Contents
 
+- [Web Page}(#web-page)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Termux](#termux)
