@@ -2,7 +2,7 @@
 
 Welcome to the XAUUSD Profit Calculator Web Page repository! This project provides a responsive web interface for calculating profits and losses for XAUUSD (Gold vs US Dollar) trades. It is designed to be user-friendly, efficient, and adaptable to any device, making it an essential tool for traders of all levels.
 
-![Calculator Screenshot](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/480614043_122096624504781648_2609268429331855979_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eQvhy8Ge0CQQ7kNvgEU8Ttb&_nc_zt=23&_nc_ht=scontent.fdac19-1.fna&_nc_gid=AZAICLJqJB6HPYuyBthJtvl&oh=00_AYAHiahp2Z_fi8ZOio2JIr4leaK9i4F-ZZvi1sEA0WktnQ&oe=67BBB350)
+![Calculator Screenshot](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/480640846_122096625536781648_6446957248308179528_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3AvcFgPQMFoQ7kNvgGEaY3c&_nc_zt=23&_nc_ht=scontent.fdac19-1.fna&_nc_gid=AF2LfD7-eWNcM6kIm9BaQQS&oh=00_AYAwFVkgZYrwCv8FA6R-Ca35fDv_FJE_9DgIHDJPtaF5JA&oe=67BBBFE4)
 
 ## Features
 
@@ -76,7 +76,7 @@ To set up the XAUUSD Profit Calculator, follow these steps:
 
 4. Adjust the settings to better reflect your trading strategy for more accurate results.
 
-![Calculator Demo](assets/calculator_demo.gif)
+![Calculator Demo](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/480614043_122096624504781648_2609268429331855979_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eQvhy8Ge0CQQ7kNvgEU8Ttb&_nc_zt=23&_nc_ht=scontent.fdac19-1.fna&_nc_gid=AZAICLJqJB6HPYuyBthJtvl&oh=00_AYAHiahp2Z_fi8ZOio2JIr4leaK9i4F-ZZvi1sEA0WktnQ&oe=67BBB350)
 
 ## Configuration
 
@@ -90,7 +90,7 @@ To configure these settings, edit the `xauusd_calculator.py` file in the project
 
 ## Contributing
 
-We welcome contributions to improve the XAUUSD Profit Calculator Web Page! If you'd like to contribute, please follow these steps:
+We welcome contributions to improve the XAUUSD Profit Calculator! If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix:
@@ -119,5 +119,3 @@ If you have any questions or need further assistance, feel free to reach out:
 - **Email**: [anonwincy@example.com](mailto:anoncod3r#hotmail.com)
 
 Thank you for using the XAUUSD Profit Calculator! Happy trading!
-
-![Footer Image](assets/footer_image.png)
