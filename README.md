@@ -2,7 +2,7 @@
 
 Welcome to the XAUUSD Profit Calculator Web Page repository! This project provides a responsive web interface for calculating profits and losses for XAUUSD (Gold vs US Dollar) trades. It is designed to be user-friendly, efficient, and adaptable to any device, making it an essential tool for traders of all levels.
 
-![Calculator Screenshot](assets/calculator_screenshot.png)
+![Calculator Screenshot](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/480614043_122096624504781648_2609268429331855979_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eQvhy8Ge0CQQ7kNvgEU8Ttb&_nc_zt=23&_nc_ht=scontent.fdac19-1.fna&_nc_gid=AZAICLJqJB6HPYuyBthJtvl&oh=00_AYAHiahp2Z_fi8ZOio2JIr4leaK9i4F-ZZvi1sEA0WktnQ&oe=67BBB350)
 
 ## Features
 
