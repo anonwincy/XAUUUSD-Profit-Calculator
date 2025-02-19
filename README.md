@@ -11,6 +11,9 @@ Welcome to the XAUUSD Profit Calculator repository! This project provides a resp
 
   ![Web Calculator Screenshot](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/480675867_122096633486781648_5328355826486504107_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=D6nE0CAm51gQ7kNvgFzsf9_&_nc_zt=23&_nc_ht=scontent.fdac19-1.fna&_nc_gid=A2R4sGDDHNIB_eetgcmzbto&oh=00_AYBxOeaWmG0EkXtW-zTCTiAxkaJsK1zCCKRGMROigSgt0Q&oe=67BBBAB5)
 
+  - **Result**: [Web Calculator Result](![image](https://github.com/user-attachments/assets/ad3c5759-5a57-4a90-ac86-9381ce293005)
+)
+
 
 ## Features
 
@@ -23,7 +26,7 @@ Welcome to the XAUUSD Profit Calculator repository! This project provides a resp
 
 ## Table of Contents
 
-- [Web Page](#Web Page Forex and Crypto Calculator)
+- [Web Page](#web-page-forex-and-crypto-calculator)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Termux](#termux)
